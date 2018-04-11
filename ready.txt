@@ -1,0 +1,31 @@
+#include <bits/stdc++.h>
+
+#define MAX(a,b) ((a>b)?a:b)
+#define MIN(a,b) ((a<b)?a:b)
+#define loop(i, a, b) for(int i=(a);i<=(b);i++)
+
+#define pf(x) printf(x);
+#define dbg(x) printf("\n--bug: %d --\n",x)
+#define PI 2*acos(0.0)
+#define all(x) x.begin(),x.end()
+#define ll long long
+#define pb push_back
+#define NL printf("\n")
+#define INF (int) 1<<28 
+#define INFF (ll) 5e18
+
+
+using namespace std;
+
+
+int main()
+{
+//  freopen("input.txt","r",stdin); freopen("output.txt","w",stdout);
+
+
+
+
+		
+		
+    return 0;
+}
